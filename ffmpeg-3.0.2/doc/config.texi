@@ -356,7 +356,7 @@
 @c @set have-libc-msvcrt no
 @c @set have-libdc1394-1 no
 @c @set have-libdc1394-2 no
-@c @set have-makeinfo no
+@set have-makeinfo yes
 @c @set have-makeinfo-html no
 @set have-perl yes
 @set have-pod2man yes
@@ -383,7 +383,7 @@
 @set config-htmlpages yes
 @set config-manpages yes
 @set config-podpages yes
-@c @set config-txtpages no
+@set config-txtpages yes
 @set config-avio-reading-example yes
 @set config-avio-dir-cmd-example yes
 @set config-decoding-encoding-example yes
@@ -472,7 +472,7 @@
 @c @set config-libzimg no
 @c @set config-libzmq no
 @c @set config-libzvbi no
-@set config-lzma yes
+@c @set config-lzma no
 @c @set config-mmal no
 @c @set config-netcdf no
 @c @set config-nvenc no
